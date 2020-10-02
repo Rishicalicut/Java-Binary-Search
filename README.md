@@ -1,3 +1,3 @@
 # Java-Binary-Search
-Binary Search
+Binary Search.
 
